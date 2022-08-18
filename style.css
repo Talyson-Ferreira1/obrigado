@@ -11,24 +11,6 @@ body
     display: block;
     background-image: -webkit-linear-gradient(270deg, #006098 0%, #003f64 50%, #042b43 100%);
 }
-nav
-{
-    position: fixed;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    
-    height: 11vh;
-    width: 100%;
-}
-nav img
-{
-    width: 30px;
-    height: 30px;
-}
-
-
-
 .container
 {
     width: 100%;
